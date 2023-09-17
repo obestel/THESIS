@@ -1,7 +1,8 @@
 # THESIS
+View PDF file to see the final submission
 Repo that contains code used throughout COMP90055 Research
 
-Note that the code displayed throughout this notebook is a bit messy. It is hs not been uploaded for the viewer to rerun the code, but rather to show what work was done. All notebooks excluding the data1 and data2 notebooks were hosted on Google Colab and made use of their GPUs.
+Note that the code displayed throughout this notebook is a bit messy. It is has not been uploaded for the viewer to rerun the code, but rather to show what work was done. All notebooks excluding the data1 and data2 notebooks were hosted on Google Colab and made use of their GPUs.
 
 Brief file descriptions:
 - RES50_UL: Encoder-decoder reserach using ResNet50 bckbone. DeepLabV3+ and UNET architectures used
